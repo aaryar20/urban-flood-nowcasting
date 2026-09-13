@@ -1,0 +1,22 @@
+[
+  {
+    "id": "N1",
+    "capacity": 100,
+    "inflow": 0
+  },
+  {
+    "id": "N2",
+    "capacity": 80,
+    "inflow": 0
+  },
+  {
+    "id": "N3",
+    "capacity": 60,
+    "inflow": 0
+  },
+  {
+    "id": "N4",
+    "capacity": 90,
+    "inflow": 0
+  }
+]
